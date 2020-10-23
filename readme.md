@@ -22,7 +22,9 @@
 
 2. `vtuber-fortune` 文件夹更名为 `pcr-fortune` 
 
-3. `vtuber-fortune/img` 文件夹替换为 `pcr-fortune/img` 即可
+3. `vtuber-fortune/img` 文件夹替换为 `pcr-fortune/img` 
+
+即可
 
 
 
