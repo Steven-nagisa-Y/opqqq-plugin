@@ -4,11 +4,11 @@
 
 ### 使用
 
-##### 第一次使用
+#### 第一次使用
 
 请 拉取 / 下载 本插件后按照 [使用文档](https://fz6m.github.io/opqqq-plugin-press) 进行安装即可
 
-##### 从原有 vtuber-fortune 迁移
+#### 从原有 vtuber-fortune 迁移
 
 本分支只对以下文件做了更新：
 
