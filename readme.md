@@ -6,7 +6,7 @@
 
 #### 第一次使用
 
-请 拉取 / 下载 本插件后按照 [使用文档](https://fz6m.github.io/opqqq-plugin-press) 进行安装即可
+请 [拉取/下载](https://github.com/fz6m/opqqq-plugin/releases) 本插件后按照 [使用文档](https://fz6m.github.io/opqqq-plugin-press) 进行安装即可
 
 #### 从原有 vtuber-fortune 迁移
 
