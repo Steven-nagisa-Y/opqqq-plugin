@@ -283,7 +283,7 @@ class Swimsuit():
             raise Exception('The image name does not conform to the format "frame_1" !')
         # Identify whether it is within the prohibited range
         for i in cls.prohibitedValue:
-            if isinstance(i, list) and ( i in [ j for j in range(i[0], i[1] + 1)] ):
+            if isinstance(i, list) and ( number in [ j for j in range(i[0], i[1] + 1)] ):
                 return True
             if isinstance(i, int) and number == i:
                 return True
